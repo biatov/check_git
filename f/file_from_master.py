@@ -1,2 +1,2 @@
 print('File from branch master')
-print('New rows')
+print('New rows (fix raw)')
